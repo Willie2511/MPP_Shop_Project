@@ -1,0 +1,1 @@
+s = create_and_stock_shop()
